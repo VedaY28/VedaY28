@@ -16,9 +16,9 @@
  
 ## ⚡ Fun Fact 
 
-- My hobbies include: Photography, Video-Games, Cooking, Camping, Building Computers...
+- My hobbies include: Photography, Video-Games, Cooking, Camping, Building PCs...
 - I like watching movies and tv-shows
-- I'm interested in motorcycles and fast cars (into Formula 1) 
+- I have a interest in motorcycles and cars (into Formula 1 as well)
 
 ## 📫 Contact
 
