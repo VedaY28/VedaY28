@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying CS + DS @ Rutgers
 - 💻 I’m currently working on new projects
-- 🌱 I’m currently learning about AI and ML
+- 🌱 I’m currently learning about AI and AWS
 
 ## 📦 Skills
 
