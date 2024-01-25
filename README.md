@@ -6,7 +6,7 @@
 
 ## 📦 Skills
 
-**Core Progamming:** `Java` `Python` `C` `R` ``
+**Core Progamming:** `Java` `Python` `C` `R`
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `React`
  
