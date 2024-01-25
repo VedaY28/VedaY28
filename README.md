@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi I'm Veda 👋
 
-<!--
-**VedaY28/VedaY28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying CS + DS @ Rutgers
+- 💻 I’m currently working on new projects
+- 🌱 I’m currently learning about AI and ML
 
-Here are some ideas to get you started:
+## 📦 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Progamming:** `Java` `Python` `C` `R` ``
+
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React`
+ 
+**Version Control:** `Git` `Bitbucket`
+
+**Backend Development:** `Firebase` `NodeJS` `MySQL`
+ 
+## ⚡ Fun Fact 
+
+- My hobbies include: Photography, Video-Games, Cooking, Camping, Building Computers...
+- I like watching movies and tv-shows
+- I'm interested in motorcycles and fast cars (into Formula 1) 
+
+## 📫 Contact
+
+ How to reach me:
+ - [Gmail](veda.yakkali3@gmail.com)
+ - [LinkedIn](https://www.linkedin.com/in/vedayakkali28/)
