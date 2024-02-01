@@ -23,5 +23,5 @@
 ## 📫 Contact
 
  How to reach me:
- - [Gmail](veda.yakkali3@gmail.com)
+ - veda.yakkali3@gmail.com
  - [LinkedIn](https://www.linkedin.com/in/vedayakkali28/)
