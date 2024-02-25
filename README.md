@@ -25,3 +25,4 @@
  How to reach me:
  - veda.yakkali3@gmail.com
  - [LinkedIn](https://www.linkedin.com/in/vedayakkali28/)
+ - Check Out My [Website](https://vedayakkali.netlify.app/)
